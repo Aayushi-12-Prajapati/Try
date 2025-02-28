@@ -1,2 +1,3 @@
 Hellooo this is my day of learning git ! this is fun
-this is not fun
+this is not fun .
+changes from branch1
